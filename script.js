@@ -1,3 +1,5 @@
+'use strict';
+
 //STEP 1: request name, surname and color with a prompt
 //STEP 2: Generate the result that merge all the variables 
 //STEP 3: print in console log and on screen
